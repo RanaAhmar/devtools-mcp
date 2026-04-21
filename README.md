@@ -49,6 +49,7 @@ Once connected, your LLM can execute commands like:
 *   "Evaluate `document.title` and return the result."
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -66,4 +67,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
